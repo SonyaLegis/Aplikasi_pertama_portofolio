@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aplikasi pertama portofolio</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="textview07">Selamat Datang di Universitas Esa Unggul Program Studi Teknik Informatika - Fakultas Ilmu komputer</string>
+    <string name="textview08">Nama : Sonya Legis</string>
+    <string name="textview09">NIM : 30819100</string>
+    <string name="textview10">Hobby : Membaca & Ngoding</string>
+    <string name="textview11">Pekerjaan : Administrator Accurrate</string>
+    <string name="textview12">Status : Singgle (belum menikah)</string>
+</resources>
